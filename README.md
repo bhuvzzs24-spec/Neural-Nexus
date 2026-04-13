@@ -4,13 +4,13 @@ Neural-Nexus is a multi-agent AI-powered interview simulation system designed to
 
 Problem
 
-Traditional interview prep platforms are static:
+Traditional interview preparation platforms are static:
 
 Same questions every time
 No memory of past responses
 No personalized feedback
 
-This leads to poor real-world preparation.
+This leads to poor real-world interview readiness.
 
 Solution
 
@@ -28,10 +28,10 @@ Performance tracking over time
 Personalized feedback system
 Tech Stack
 Python
-(Add what you used: OpenAI API / LLM / Streamlit / Flask etc.)
+OpenAI API / LLM (replace with actual)
 JSON-based memory storage
 How to Run
-git clone https://github.com/your-repo-link
+git clone https://github.com/bhuvzzs24-spec/Neural-Nexus
 cd Neural-Nexus
 pip install -r requirements.txt
 python app.py
